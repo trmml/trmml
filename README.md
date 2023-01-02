@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @trmml
 - 👀 Interested in Node
 - 🌱 Currently learning databasing
-- 😋 Looking to collaborate on winnie
+- 😋 Looking to collaborate on [sting](https://github.com/trmml/sting)
 - 🐦 [Tweet me](https://twitter.com/trommatic)
 
 <!---
